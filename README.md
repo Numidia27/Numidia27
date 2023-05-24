@@ -8,7 +8,7 @@
   <h3>Software Engineer</h3> 
 </div>
  
-<p align="left"> I am Well versed in collaborating with leadership and key stakeholders, and customer-facing, across departments and locations, prioritising time-sensitive issues in high-volume environments to deliver solutions. I love to work on things that are exciting & Challenging.</p> 
+<p align="left"> </p> 
 <br>
 <br>
 <br>
