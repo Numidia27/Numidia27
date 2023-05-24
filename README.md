@@ -18,7 +18,7 @@
 <br>
 
 <div style="padding: 5px;">
-  <h3 style="color: rgb(52, 86, 139); font-size:25px;">Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"></h3> 
+  <h3 style="color: rgb(52, 86, 139); font-size:25px;">Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="51"></h3> 
 </div>
 
 <div>
