@@ -43,7 +43,7 @@
 <hr style="height:2px; border-width:1; color:light-blue; background-color:gray">
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahina227&layout=compact&show_icons=true&theme=vue" />
-  <img height="165" align="right" src="https://github-readme-stats.vercel.app/api?username=kahina227&show_icons=true&theme=vue&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numidia27&layout=compact&show_icons=true&theme=vue" />
+  <img height="165" align="right" src="https://github-readme-stats.vercel.app/api?username=numidia27&show_icons=true&theme=vue&count_private=true" />
 </div>
 
