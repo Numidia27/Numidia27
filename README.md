@@ -23,7 +23,6 @@
 
 <div>
  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" title="Cpluplus" alt="Cplusplus" width="46">
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="46"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" alt="CMake" width="74"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="46">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="sql" alt="SQL" width="46"/>
