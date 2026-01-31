@@ -5,7 +5,7 @@
 -->
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="260" />
 <div style="padding: 70px; align: right;">
-  <h3>Software Engineer</h3> 
+  <h3>Hi, I am a Software Engineer</h3> 
 </div>
  
 <p align="left"> </p> 
